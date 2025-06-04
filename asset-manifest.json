@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DFF_CDF/static/css/main.d492514f.css",
+    "main.js": "/DFF_CDF/static/js/main.ac6f5a09.js",
+    "static/media/cryptoInAmerica.png": "/DFF_CDF/static/media/cryptoInAmerica.a67c5ef7579aff26d0d0.png",
+    "static/media/exploringProsperity.png": "/DFF_CDF/static/media/exploringProsperity.c7e42fefcf4be3397c1b.png",
+    "static/media/theCatalysts.png": "/DFF_CDF/static/media/theCatalysts.b0f52e7f5910d1111da9.png",
+    "static/media/fromHoodiesToSuits.png": "/DFF_CDF/static/media/fromHoodiesToSuits.97463b1881c05e5c5adb.png",
+    "static/media/vaneck.png": "/DFF_CDF/static/media/vaneck.83eab581a0db3c263fac.png",
+    "static/media/GlobalStake.png": "/DFF_CDF/static/media/GlobalStake.ec70e0accf28037aa18c.png",
+    "static/media/kadena.png": "/DFF_CDF/static/media/kadena.2992276934e20e88870a.png",
+    "static/media/wigginx.png": "/DFF_CDF/static/media/wigginx.97e15e4b061b3b1433e4.png",
+    "static/media/bankwell.png": "/DFF_CDF/static/media/bankwell.7f43c61a298d8a9770e5.png",
+    "static/media/inx.png": "/DFF_CDF/static/media/inx.2d220dc1e8b45aabf7b3.png",
+    "static/media/promethium.png": "/DFF_CDF/static/media/promethium.88b1169ba39c7f08d6a1.png",
+    "static/media/oasispro.png": "/DFF_CDF/static/media/oasispro.21ff2acdb6b9ad42ecae.png",
+    "index.html": "/DFF_CDF/index.html",
+    "main.d492514f.css.map": "/DFF_CDF/static/css/main.d492514f.css.map",
+    "main.ac6f5a09.js.map": "/DFF_CDF/static/js/main.ac6f5a09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d492514f.css",
+    "static/js/main.ac6f5a09.js"
+  ]
+}
